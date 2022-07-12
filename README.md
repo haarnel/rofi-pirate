@@ -58,6 +58,8 @@ Config example:
 }
 ```
 
+5. You're ready, just run ```rofi-pirate```.
+
 ## TODO
 
 - [ ] Dynamic indexer configuration.
