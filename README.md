@@ -7,7 +7,7 @@
   
 </div>  
 
-Rofi module for searching torrents using Jackett API. You can also instantly play media files without having to leave the Rofi menu. The project is still in beta.
+Spotify, Netflix and other "streaming" platforms were recently blocked in my country, so I came up with a new solution. Rofi module for searching torrents using Jackett API. You can also instantly play media files without having to leave the Rofi menu. The project is still in beta.
 
 
 
