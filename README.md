@@ -9,6 +9,12 @@
 
 Rofi module for searching torrents using Jackett API. You can also instantly play media files without having to leave the Rofi menu. The project is still in beta.
 
+
+
+https://user-images.githubusercontent.com/83361542/178555960-8ba45500-1705-4036-a5c6-2aed8b38be11.mp4
+
+
+
 ## Requirements
 
 1. Streaming torrent client: [Peerflix](https://github.com/mafintosh/peerflix) (to play media files without downloading it first)
