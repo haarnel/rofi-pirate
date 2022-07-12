@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "rofi-pirate"
+version = "1.0.1"
+description = "Rofi module for searching torrents using Jackett API."
+authors = ["Pierre Linn <haarnel@proton.me>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/haarnel/rofi-pirate"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+requests = "^2.28.1"
+python-dateutil = "^2.8.2"
+beautifulsoup4 = "^4.11.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.scripts]
+rofi-pirate = "rofi_pirate.cli:cli"
