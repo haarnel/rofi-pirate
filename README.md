@@ -13,7 +13,7 @@ Rofi module for searching torrents using Jackett API. You can also instantly pla
 
 https://user-images.githubusercontent.com/83361542/178555960-8ba45500-1705-4036-a5c6-2aed8b38be11.mp4
 
-
+Rofi theme I use: [Click](https://github.com/haarnel/dotfiles/blob/bspwm-daily/.config/rofi/themes/main.rasi)
 
 ## Requirements
 
